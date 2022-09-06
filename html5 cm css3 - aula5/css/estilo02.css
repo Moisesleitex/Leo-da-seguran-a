@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/arvores.jpg)
+}
+header{
+    background-color: rgb(90, 90, 90);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h1{
+    text-align: center;
+}
+#formulario{
+    margin:  0 auto;
+    width: 95%;
+    padding: 10px 10px 20px 20px;
+    background: rgb(90, 90, 90);
+}
+table{
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 10px 15px;
+}
+input[type="text"],[type="date"],[type="number"],[type="email"],[type="password"],[type="serch"],[type="file"]{
+    border-radius: 5px;
+    border: 1px solid #fff;
+    background-color: rgb(51, 51, 51);
+    color: #fff
+}
+::placeholder{
+    color: #fff
+}
+select{
+    border-radius: 5px;
+    border: 1px solid #333;
+    background-color: rgb(51, 51, 51);
+    color: #fff;
+}
