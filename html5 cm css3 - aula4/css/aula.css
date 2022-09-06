@@ -1,0 +1,65 @@
+body{
+    background-color: rgba(163, 0, 155, 0.603);
+    background-image: url(../img/felpanão.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#tabela1 table,td,th{
+    border: 2px solid rgb(0, 0, 0);        
+}
+#nomeloja th{
+    text-align: left
+}
+table{
+    
+    width: 600px; 
+    text-align: center;
+    table-layout: fixed;
+    border-collapse: separate;
+    border-spacing: 10px 10px;
+    empty-cells: show;
+    margin-left:  600px
+}
+#inicio{
+    text-align: center;
+}
+th{
+    background-color: rgba(163, 0, 155, 0.842);
+}
+td,th{
+    height: 50px;
+    vertical-align: auto;
+}
+#tabela2 .zebra{
+    background-color: rgba(204, 0, 194, 0.842);
+}
+#tabela3 tr:nth-child(even){
+    background-color: rgba(204, 0, 194, 0.842);
+}
+h2{
+    text-align: center;
+}
+a{    
+    text-align: center;
+}
+h4{
+    color: rgb(255, 9, 9)
+}
+#tabela2 table,td,th{
+    border: 2px solid rgb(0, 0, 0);        
+}
+#tabela3 table,td,th{
+    border: 2px solid rgb(0, 0, 0);        
+}
+#tabela4 table,td,th{
+    border: 2px solid rgb(0, 0, 0);        
+}
+#tabela5 table,td,th{
+    border: 2px solid rgb(0, 0, 0);        
+}
+
+
+
+
+
