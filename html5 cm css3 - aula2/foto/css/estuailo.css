@@ -1,0 +1,145 @@
+body{
+    background-color: rgb(219, 6, 113);
+    margin: 0;
+    padding: 0;
+    border-radius: 10px;
+
+}
+#inicio{
+    background-color: rgb(121, 4, 115);
+    margin: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+#inicio h1 {
+    text-align: center;
+    margin-top: 5px;
+}
+#menu{
+    background-color: rgb(134, 10, 113);
+    margin-right: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+}
+nav ul{
+    display: inline-block;
+    padding: 0;
+    margin-left: 40.5%
+}
+
+nav ul li{
+    list-style: none;
+    display: block;
+    text-transform: uppercase;
+    float: left;
+    padding-right: 10px;
+}
+nav li a{
+    text-decoration: none;
+    color: rgb(0, 174, 255);
+    font-weight: bold;
+}
+#meio{
+    top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    height: 500px;
+    background-color: rgb(241, 19, 241);
+    border-radius: 10px;
+
+}
+#div1{
+    float: left;
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 480px;
+    width: 30%;
+    background-color: rgb(162, 0, 255);
+    border-radius: 10px;
+
+}
+#div2{
+    float: left;
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 480px;
+    width: 30%;
+    background-color: rgb(162, 0, 255);
+    border-radius: 10px;
+
+}
+#div3{
+    float: left;
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 480px;
+    width: 30%;
+    background-color: rgb(162, 0, 255);
+    border-radius: 10px;
+
+}
+p{
+    text-align: center;
+}
+.texto{
+    text-align: justify;
+    text-indent: 20px;
+    font-size: 100%;
+}
+.titulo{
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+#rodape{
+    text-decoration: underline;
+    text-transform: uppercase;
+    margin-top: 10px;
+    margin-left: 35px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 60px;
+    clear: both;
+    background-color: rgb(121, 4, 115);  
+    border-radius: 10px;
+
+}
+.rodape{
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;
+font-weight: bold;
+font-size: large;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+#imagem{
+    float: left;
+}
+img{
+    width: 450px;
+    height:400px;
+}
+.meio{
+    border-radius: 10px;
+}
+#tabela{
+    padding-top: 30px;
+    padding-left: 30px;
+}
+table{
+    border-color: rgb(121, 4, 115)
+}
